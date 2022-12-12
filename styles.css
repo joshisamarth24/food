@@ -1,0 +1,152 @@
+.first{
+  /* background-color: #CFEE91; */
+  height:500px;
+  width:100%;
+  background-image: url('bg1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+.header{
+   background-color: black;
+  height:50px;
+  width:100%;
+  padding-top: 20px;
+  padding-bottom: 0;
+  opacity: 0.5;
+}
+.foodies{
+  padding-left: 20px;
+  text-align: center;
+  padding-bottom: 0;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+.about{
+  float: right;
+  position: absolute;
+  right: 235px;
+  padding-bottom: 0;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+.login{
+  float: right;
+  position: absolute;
+  right: 150px;
+  padding-bottom: 0;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+.home{
+  float: right;
+  padding-right: 50px;
+  padding-bottom: 0;
+  font-size: 25px;
+  color: white;
+  text-decoration: none;
+}
+.heading{
+  text-align: center;
+  font-size: 80px;
+  color: white;
+  margin-bottom: 0;
+}
+.bhead{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0;
+color: white;
+margin-bottom: 0;
+}
+.service{
+  text-align: center;
+  font-size: 2em;
+}
+.second{
+  display:flex;
+  margin-top: 10px;
+  margin-right: 10px;
+  align-items: center;
+  justify-content:space-between;
+}
+.s1{
+  height: 300px;
+  width: 32%;
+  background-color: #FAF7F0;
+ /* position: absolute; */
+  border-style:groove;
+  border-radius: 15px;
+  border-color: black;
+
+}
+.s2{
+  height: 300px;
+  width: 32%;
+  background-color: #FAF7F0;
+   /* position: absolute; */
+  /* left: 530px; */
+  border-style:groove;
+  border-radius: 15px;
+  border-color: black;
+}
+.s3{
+  height: 300px;
+  width: 32%;
+  background-color: #FAF7F0;
+   /* position: absolute; */
+  /* right: 10px; */
+  border-style:groove;
+  border-radius: 15px;
+  border-color: black;
+}
+.bimg{
+  height: 100px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.img_title{
+  text-align: center;
+  padding-top: 5px;
+  /* padding-bottom: 5px; */
+  margin-bottom: 0;
+}
+.para{
+  text-align: center;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.third{
+  height: 350px;
+  width: 100%;
+  background-image: url(bg.jpg);
+  opacity:0.6;
+}
+.logo{
+  height: 200px;
+  width: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.logos{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+  padding-bottom: 20px;
+}
+.client{
+  text-align:center;
+  font-size: 2em;
+  font-weight: bold;
+}
